@@ -1,0 +1,6 @@
+Circle
+Rectangle
+Square
+Octagon
+Triangle
+Dimond
